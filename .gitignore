@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### Mac OS ###
+.DS_Store
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -21,6 +24,3 @@ target/
 .settings
 .springBeans
 .sts4-cache
-
-### Mac OS ###
-.DS_Store
